@@ -4,11 +4,11 @@ inputs:
   lat:
     description: "lat"
     required: true
-    default: "48.137284"
+    default: "31.23"
   long:
     description: "long"
     required: true
-    default: "11.575529"
+    default: "121.47"
 outputs:
   temperature:
     description: "Temperature for passed lat/long"
